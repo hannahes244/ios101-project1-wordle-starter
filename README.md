@@ -2,9 +2,8 @@
 
 Submitted by: **Hannah Sanders**
 
-**Wordle** is an app that ... [TODO] 
-
-Time spent: **X** hours spent in total
+**Wordle** is an app that ... gives users six attempts to guess a 5-letter word, providing them with feedback through color-changing tiles that indicate the correct and incorrect letters.
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -16,7 +15,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface by adding a launchscreen and app icon
+- [X] Improve and customize the user interface by adding a launchscreen and app icon
 - [X] Run the app on a device rather than in the simulator
 
 The following **additional** features are implemented:
